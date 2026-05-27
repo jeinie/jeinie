@@ -37,12 +37,6 @@ A sales analysis platform for franchise headquarters and sales managers.
 - Cloud deployment and service operation
 - Version control and collaboration with GitLab, SVN
 
-## GitHub Stats
-
-![Jeinie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeinie&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeinie&layout=compact&hide_border=true)
-
 ## Contact
 
 - GitHub: [github.com/jeinie](https://github.com/jeinie)
