@@ -21,7 +21,7 @@ I am interested in designing clean APIs, managing relational databases, and depl
 
 ## Featured Projects
 
-### Franchise Sales Analysis Platform
+### Merchant Sales Analysis Platform
 A sales analysis platform for franchise headquarters and sales managers.
 
 - Built REST APIs with Java and Spring Boot
